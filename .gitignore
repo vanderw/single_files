@@ -1,0 +1,8 @@
+*.tar.gz
+*.zip
+version
+
+.idea/
+.vscode/
+__pycache__/
+
